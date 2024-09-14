@@ -1,2 +1,2 @@
-A responsive and scalable Netflix website replica built using React.
+A responsive and scalable Netflix website replica built using React. 
  
